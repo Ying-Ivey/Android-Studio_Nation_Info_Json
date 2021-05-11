@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Nation_Info_JSON</string>
+    <string name="contentImg">Flag image</string>
+    <string name="name">Country name</string>
+    <string name="population">Population</string>
+    <string name="area">Area (sq km)</string>
+    <string name="id">ID</string>
+</resources>
